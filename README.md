@@ -8,7 +8,9 @@ This repository accompanies [*ABAP in Eclipse*](https://www.apress.com/978148426
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
 If you want to work on the backend and frontent repositories separately, please use following links:
+
 [*Backend*](https://github.com/Apress/abap-in-eclipse-abap)
+
 [*Frontend*](https://github.com/Apress/abap-in-eclipse-java)
 
 ## Releases
